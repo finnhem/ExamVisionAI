@@ -1,0 +1,12 @@
+opencv
+easyocr
+face_recognition
+numpy
+glob
+os
+csv
+tkinter
+pillow
+threading
+os
+time
